@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta name="google-site-verification" content="YwL881YCXWCcgavRMd6khUT4rycl0-r5Ja2bw90tmvg" />
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <div>
+<div>
 <h1>Leet Code Problem Solving <a href="https://leetcode.com/user5584LA/">[Habibur Rahman]</a></h1>
 </div>
 
@@ -34,5 +25,3 @@
 <h3>Easy</h3>
 <hr>
 </div>
-</body>
-</html>
