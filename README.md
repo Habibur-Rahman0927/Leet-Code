@@ -31,3 +31,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/valid-parentheses/">(06) 20. Valid Parentheses</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
