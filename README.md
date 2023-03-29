@@ -55,3 +55,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/search-insert-position/">(10) 35. Search Insert Position</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
