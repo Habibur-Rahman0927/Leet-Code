@@ -12,9 +12,6 @@ class Solution(object):
         a, b = a[::-1], b[::-1]
 
         for i in range(max(len(a), len(b))):
-            test1 = ord(a[i])
-            test2 = ord("0")
-            test3 = ord(b[i])
             digitA = ord(a[i]) - ord("0") if i < len(a) else 0
             digitB = ord(b[i]) - ord("0") if i < len(b) else 0
 
