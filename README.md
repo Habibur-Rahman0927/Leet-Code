@@ -86,4 +86,10 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/sqrtx/">(15) 69. Sqrt(x)</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
 
