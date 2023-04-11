@@ -115,3 +115,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">(20) 104. Maximum Depth of Binary Tree</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
