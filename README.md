@@ -147,7 +147,19 @@
 </div>
 
 <div>
-<h2><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">(25) 3. Longest Substring Without Repeating Characters</a></h2>
+<h2><a href="https://leetcode.com/problems/pascals-triangle/">(25) 118. Pascal's Triangle</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">(26) 3. Longest Substring Without Repeating Characters</a></h2>
 <h3>Medium</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/pascals-triangle-ii/">(27) 119. Pascal's Triangle II</a></h2>
+<h3>Easy</h3>
 <hr>
 </div>
