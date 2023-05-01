@@ -223,3 +223,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/employees-earning-more-than-their-managers/">(38) 181. Employees Earning More Than Their Managers</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
