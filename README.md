@@ -229,3 +229,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/duplicate-emails/">(39) 182. Duplicate Emails</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
