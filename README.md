@@ -241,3 +241,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/reverse-bits/">(41) 190. Reverse Bits</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
