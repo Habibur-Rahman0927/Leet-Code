@@ -265,3 +265,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/first-bad-version/">(45) 278. First Bad Version</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
