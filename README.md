@@ -271,3 +271,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">(46) 977. Squares of a Sorted Array</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
