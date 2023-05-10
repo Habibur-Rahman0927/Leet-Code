@@ -10,9 +10,10 @@ class Solution(object):
             curSum = numbers[l] + numbers[r]
             if curSum > target:
                 r -= 1
-            elif curSum == target:
-                return [l+1,r+1]
-            else:
+            elif curSum < target:
                 l += 1
+            else:
+                return [l+1,r+1]
+        return []
 solution = Solution()
 print(solution.twoSum([2,7,11,15], 9))
