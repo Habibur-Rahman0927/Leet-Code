@@ -327,7 +327,7 @@
 </div>
 
 <div>
-<h2><a href="https://leetcode.com/problems/permutation-in-string/">(55) 19. Remove Nth Node From End of List</a></h2>
+<h2><a href="https://leetcode.com/problems/permutation-in-string/">(55) 567. Permutation in String</a></h2>
 <h3>Medium</h3>
 <hr>
 </div>
