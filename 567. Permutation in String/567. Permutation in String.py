@@ -1,3 +1,4 @@
+import collections
 class Solution(object):
     def checkInclusion(self, s1, s2):
         """
@@ -16,3 +17,6 @@ class Solution(object):
                 return True
         
         return False
+    
+solution = Solution()
+print(solution.checkInclusion('ab', 'eidbaooo'))
