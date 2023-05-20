@@ -397,3 +397,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/game-play-analysis-i/">(67) 511. Game Play Analysis I</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
