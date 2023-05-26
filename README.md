@@ -433,3 +433,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/second-highest-salary/">(73) 176. Second Highest Salary</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
