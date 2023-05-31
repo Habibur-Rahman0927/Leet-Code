@@ -469,3 +469,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/network-delay-time/">(79) 743. Network Delay Time</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
