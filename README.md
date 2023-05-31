@@ -463,3 +463,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/minimum-height-trees/">(78) 310. Minimum Height Trees</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
