@@ -475,3 +475,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/longest-increasing-path-in-a-matrix/">(80) 329. Longest Increasing Path in a Matrix</a></h2>
+<h3>Hard</h3>
+<hr>
+</div>
