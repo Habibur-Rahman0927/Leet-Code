@@ -489,7 +489,13 @@
 </div>
 
 <div>
-<h2><a href="https://leetcode.com/problems/shortest-path-visiting-all-nodes/">(81) 847. Shortest Path Visiting All Nodes</a></h2>
+<h2><a href="https://leetcode.com/problems/shortest-path-visiting-all-nodes/">(82) 847. Shortest Path Visiting All Nodes</a></h2>
 <h3>Hard</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/find-center-of-star-graph/">(83) 1791. Find Center of Star Graph</a></h2>
+<h3>Easy</h3>
 <hr>
 </div>
