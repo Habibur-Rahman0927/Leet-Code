@@ -499,3 +499,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/relative-ranks/">(84) 506. Relative Ranks</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
