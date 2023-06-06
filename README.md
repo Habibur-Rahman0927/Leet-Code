@@ -559,3 +559,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/minimum-absolute-difference-in-bst/">(94) 530. Minimum Absolute Difference in BST</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
