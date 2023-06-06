@@ -553,3 +553,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/find-mode-in-binary-search-tree/">(93) 501. Find Mode in Binary Search Tree</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
