@@ -565,3 +565,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/average-of-levels-in-binary-tree/">(95) 637. Average of Levels in Binary Tree</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
