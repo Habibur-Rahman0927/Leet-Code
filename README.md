@@ -607,3 +607,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/min-cost-to-connect-all-points/">(102) 1584. Min Cost to Connect All Points</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
