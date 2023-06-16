@@ -649,3 +649,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/permutation-in-string/">(109) 586. Customer Placing the Largest Number of Orders</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
