@@ -655,3 +655,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/rank-scores/">(110) 178. Rank Scores</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
