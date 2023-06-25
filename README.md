@@ -703,3 +703,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/big-countries/">(118) 595. Big Countries</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
