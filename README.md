@@ -715,3 +715,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/investments-in-2016/">(120) 585. Investments in 2016</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
