@@ -721,3 +721,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/classes-more-than-5-students/">(120) 596. Classes More Than 5 Students</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
