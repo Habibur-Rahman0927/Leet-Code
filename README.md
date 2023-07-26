@@ -3,11 +3,6 @@
 </div>
 
 <div>
-## Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Habibur-Rahman0927?ext=heatmap&animation=true)](https://leetcode.com/Habibur-Rahman0927)
-</div>
-
-<div>
 <h2><a href="https://leetcode.com/problems/same-tree/">(01) 100. Same Tree</a></h2>
 <h3>Easy</h3>
 <hr>
