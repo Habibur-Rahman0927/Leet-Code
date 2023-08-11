@@ -925,3 +925,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/department-top-three-salaries/">(152) 185. Department Top Three Salaries</a></h2>
+<h3>Hard</h3>
+<hr>
+</div>
