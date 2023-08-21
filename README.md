@@ -985,3 +985,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/power-of-two/">(162) 231. Power of Two</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
