@@ -1045,3 +1045,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/implement-queue-using-stacks/">(172) 232. Implement Queue using Stacks</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
