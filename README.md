@@ -1057,3 +1057,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/biggest-single-number/">(174) 619. Biggest Single Number</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
