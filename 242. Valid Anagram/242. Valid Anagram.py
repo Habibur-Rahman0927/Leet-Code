@@ -5,7 +5,7 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        if len(s) != len(s):
+        if len(s) != len(t):
             return False
 
         countS, countT = {}, {}
