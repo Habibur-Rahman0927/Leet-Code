@@ -1129,3 +1129,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/word-pattern/">(185) 290. Word Pattern</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
