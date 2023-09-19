@@ -1141,3 +1141,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/nim-game/">(187) 292. Nim Game</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
