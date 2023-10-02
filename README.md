@@ -1178,3 +1178,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/range-sum-query-immutable/">(193) 303. Range Sum Query - Immutable</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
