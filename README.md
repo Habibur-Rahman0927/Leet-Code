@@ -1195,3 +1195,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/delete-node-in-a-linked-list/">(196) 237. Delete Node in a Linked List</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
