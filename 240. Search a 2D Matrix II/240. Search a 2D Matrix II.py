@@ -8,7 +8,7 @@ class Solution(object):
         N, M = len(matrix), len(matrix[0])
         r, c = N - 1, 0
 
-        while r >= c and c < M:
+        while r >= 0 and c < M:
             if matrix[r][c] == target:
                 return True
             if matrix[r][c] < target:
