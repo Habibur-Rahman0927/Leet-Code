@@ -1237,3 +1237,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/perfect-number/description/">(203) 507. Perfect Number</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
