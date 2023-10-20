@@ -1249,3 +1249,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/not-boring-movies/description/">(205) 620. Not Boring Movies</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
