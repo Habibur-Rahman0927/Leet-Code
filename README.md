@@ -1267,3 +1267,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/arithmetic-slices/description/">(208) 413. Arithmetic Slices</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
