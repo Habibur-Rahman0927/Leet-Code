@@ -1273,3 +1273,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/">(209) 1050. Actors and Directors Who Cooperated At Least Three Times</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
