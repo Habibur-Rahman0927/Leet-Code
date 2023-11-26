@@ -1279,3 +1279,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/word-frequency/description/">(210) 192. Word Frequency</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
