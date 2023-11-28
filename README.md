@@ -1291,3 +1291,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/min-cost-climbing-stairs/description/">(212) 746. Min Cost Climbing Stairs</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
