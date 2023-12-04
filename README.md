@@ -1309,3 +1309,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/degree-of-an-array/description/">(215) 697. Degree of an Array</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
