@@ -1333,3 +1333,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">(219) 1662. Check If Two String Arrays are Equivalent</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
