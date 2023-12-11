@@ -1339,3 +1339,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/">(220) 1287. Element Appearing More Than 25% In Sorted Array</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
