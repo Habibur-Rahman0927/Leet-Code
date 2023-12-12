@@ -1345,3 +1345,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/">(221) 1464. Maximum Product of Two Elements in an Array</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
