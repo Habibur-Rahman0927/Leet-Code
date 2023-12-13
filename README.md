@@ -1351,3 +1351,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/special-positions-in-a-binary-matrix/">(222) 1582. Special Positions in a Binary Matrix</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
