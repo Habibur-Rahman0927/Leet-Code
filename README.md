@@ -1363,3 +1363,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/destination-city/">(222) 1436. Destination City</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
