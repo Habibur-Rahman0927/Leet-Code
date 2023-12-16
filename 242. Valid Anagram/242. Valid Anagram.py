@@ -21,5 +21,6 @@ solution = Solution()
 solution.isAnagram("anagram", "nagaram")
 
 # more answer 
+
 # return sorted(s) == sorted(t)
 # return Counter(s) == Counter(s)
