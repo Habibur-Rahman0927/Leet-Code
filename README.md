@@ -1359,13 +1359,19 @@
 </div>
 
 <div>
-<h2><a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/">(222) 2482. Difference Between Ones and Zeros in Row and Column</a></h2>
+<h2><a href="https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/">(223) 2482. Difference Between Ones and Zeros in Row and Column</a></h2>
 <h3>Medium</h3>
 <hr>
 </div>
 
 <div>
-<h2><a href="https://leetcode.com/problems/destination-city/">(222) 1436. Destination City</a></h2>
+<h2><a href="https://leetcode.com/problems/destination-city/">(224) 1436. Destination City</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/design-a-food-rating-system/">(225) 2353. Design a Food Rating System</a></h2>
 <h3>Easy</h3>
 <hr>
 </div>
