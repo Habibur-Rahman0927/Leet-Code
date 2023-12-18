@@ -1375,3 +1375,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/maximum-product-difference-between-two-pairs/">(226) 1913. Maximum Product Difference Between Two Pairs</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
