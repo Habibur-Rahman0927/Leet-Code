@@ -1381,3 +1381,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/recyclable-and-low-fat-products/">(227) 1757. Recyclable and Low Fat Products</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
