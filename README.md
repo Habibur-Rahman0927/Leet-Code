@@ -1417,3 +1417,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/average-time-of-process-per-machine/">(233) 1661. Average Time of Process per Machine</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
