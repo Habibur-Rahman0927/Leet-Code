@@ -1399,3 +1399,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/">(230) 1683. Invalid Tweets</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
