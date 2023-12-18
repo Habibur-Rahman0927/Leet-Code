@@ -1405,3 +1405,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/product-sales-analysis-i/">(231) 1068. Product Sales Analysis I</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
