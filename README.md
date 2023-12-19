@@ -1441,3 +1441,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/merge-strings-alternately/">(237) 1768. Merge Strings Alternately</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
