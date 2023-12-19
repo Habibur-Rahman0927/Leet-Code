@@ -1465,3 +1465,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/queries-quality-and-percentage/">(241) 1211. Queries Quality and Percentage</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
