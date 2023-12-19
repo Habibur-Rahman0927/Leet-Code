@@ -1447,3 +1447,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/image-smoother/">(238) 661. Image Smoother</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
