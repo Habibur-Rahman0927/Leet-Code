@@ -1627,3 +1627,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/trips-and-users/">(268) 262. Trips and Users</a></h2>
+<h3>Hard</h3>
+<hr>
+</div>
