@@ -1633,3 +1633,9 @@
 <h3>Hard</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/longest-continuous-increasing-subsequence/">(269) 661. Image Smoother</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
