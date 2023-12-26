@@ -1490,3 +1490,134 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">(245) 1422. Maximum Score After Splitting a String</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/path-crossing/">(246) 1496. Path Crossing</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/can-place-flowers/">(247) 605. Can Place Flowers</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/user-activity-for-the-past-30-days-i/">(248) 1141. User Activity for the Past 30 Days I</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/product-sales-analysis-iii/">(249) 1070. Product Sales Analysis III</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/find-followers-count/">(250) 1729. Find Followers Count</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/customers-who-bought-all-products/">(251) 1045. Customers Who Bought All Products</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/">(252) 1731. The Number of Employees Which Report to Each Employee</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/primary-department-for-each-employee/">(253) 1789. Primary Department for Each Employee</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/product-price-at-a-given-date/">(254) 1164. Product Price at a Given Date</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/last-person-to-fit-in-the-bus/">(255) 1204. Last Person to Fit in the Bus</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/employees-whose-manager-left-the-company/">(256) 1978. Employees Whose Manager Left the Company</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/movie-rating/">(257) 1341. Movie Rating</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/restaurant-growth/">(258) 1321. Restaurant Growth</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/">(259) 602. Friend Requests II: Who Has the Most Friends</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/fix-names-in-a-table/">(260) 1667. Fix Names in a Table</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/patients-with-a-condition/">(261) 1527. Patients With a Condition</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/group-sold-products-by-the-date/">(262) 1484. Group Sold Products By The Date</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/list-the-products-ordered-in-a-period/">(263) 1327. List the Products Ordered in a Period</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/find-users-with-valid-e-mails/">(264) 1517. Find Users With Valid E-Mails</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/">(265) 1758. Minimum Changes To Make Alternating Binary String</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">(266) 1071. Greatest Common Divisor of Strings</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
