@@ -1646,3 +1646,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/">(271) 1335. Minimum Difficulty of a Job Schedule</a></h2>
+<h3>Hard</h3>
+<hr>
+</div>
+
