@@ -1652,3 +1652,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/">(272) 1897. Redistribute Characters to Make All Strings Equal</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
