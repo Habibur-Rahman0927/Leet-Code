@@ -1676,3 +1676,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/">(276) 2610. Convert an Array Into a 2D Array With Conditions</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
