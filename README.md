@@ -1682,3 +1682,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/number-of-laser-beams-in-a-bank/">(277) 2125. Number of Laser Beams in a Bank</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
