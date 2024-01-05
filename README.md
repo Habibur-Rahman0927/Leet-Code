@@ -1688,3 +1688,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/">(278) 2870. Minimum Number of Operations to Make Array Empty</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
