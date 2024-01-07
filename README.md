@@ -1706,3 +1706,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/arithmetic-slices-ii-subsequence/">(281) 446. Arithmetic Slices II - Subsequence</a></h2>
+<h3>Hard</h3>
+<hr>
+</div>
+
