@@ -1724,3 +1724,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/">(284) 2385. Amount of Time for Binary Tree to Be Infected</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
