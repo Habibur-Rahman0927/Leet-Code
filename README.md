@@ -1730,10 +1730,15 @@
 <hr>
 </div>
 
-
 <div>
 <h2><a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">(285) 1026. Maximum Difference Between Node and Ancestor</a></h2>
 <h3>Medium</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/">(286) 1704. Determine if String Halves Are Alike</a></h2>
+<h3>Easy</h3>
 <hr>
 </div>
 
