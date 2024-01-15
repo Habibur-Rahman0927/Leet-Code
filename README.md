@@ -1753,3 +1753,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/find-players-with-zero-or-one-losses/">(289) 2225. Find Players With Zero or One Losses</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
