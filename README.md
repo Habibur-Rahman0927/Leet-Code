@@ -1807,3 +1807,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">(297) 1457. Pseudo-Palindromic Paths in a Binary Tree</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
