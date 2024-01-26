@@ -1819,3 +1819,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/out-of-boundary-paths/">(299) 576. Out of Boundary Paths</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
