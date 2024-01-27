@@ -1826,3 +1826,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/k-inverse-pairs-array/">(300) 629. K Inverse Pairs Array</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
