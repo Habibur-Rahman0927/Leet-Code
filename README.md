@@ -1828,7 +1828,13 @@
 
 <div>
 <h2><a href="https://leetcode.com/problems/k-inverse-pairs-array/">(300) 629. K Inverse Pairs Array</a></h2>
-<h3>Medium</h3>
+<h3>Hard</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/">(301) 1074. Number of Submatrices That Sum to Target</a></h2>
+<h3>Hard</h3>
 <hr>
 </div>
 
