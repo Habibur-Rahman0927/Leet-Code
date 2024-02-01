@@ -1850,3 +1850,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/">(304) 2966. Divide Array Into Arrays With Max Difference</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
