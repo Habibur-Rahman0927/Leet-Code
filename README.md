@@ -1856,3 +1856,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/sequential-digits/">(305) 1291. Sequential Digits</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
