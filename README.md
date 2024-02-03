@@ -1862,3 +1862,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/partition-array-for-maximum-sum/">(306) 1043. Partition Array for Maximum Sum</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
