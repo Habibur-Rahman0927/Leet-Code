@@ -1910,3 +1910,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array/">(314) 2108. Find First Palindromic String in the Array</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
