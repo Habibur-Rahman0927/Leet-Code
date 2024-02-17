@@ -1940,3 +1940,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/">(319) 1431. Kids With the Greatest Number of Candies</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
