@@ -3,34 +3,45 @@ class ListNode(object):
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
-class Solution(object):
-    def addTwoNumbers(self, l1, l2):
-        """
-        :type l1: ListNode
-        :type l2: ListNode
-        :rtype: ListNode
-        """
+# class Solution(object):
+#     def addTwoNumbers(self, l1, l2):
+#         """
+#         :type l1: ListNode
+#         :type l2: ListNode
+#         :rtype: ListNode
+#         """
 
-        carry = 0
-        result = ListNode(0)
-        pointer = result
+        # carry = 0
+        # result = ListNode(0)
+        # pointer = result
         
         
-        while (l1 or l2 or carry):
+        # while (l1 or l2 or carry):
             
-            first_num = l1.val if l1 else 0
-            second_num = l2.val if l2 else 0
+        #     first_num = l1.val if l1 else 0
+        #     second_num = l2.val if l2 else 0
             
-            summation = first_num + second_num + carry
+        #     summation = first_num + second_num + carry
             
-            num = summation % 10
-            carry = summation // 10
+        #     num = summation % 10
+        #     carry = summation // 10
             
-            pointer.next = ListNode(num)
+        #     pointer.next = ListNode(num)
             
-            pointer = pointer.next
-            l1 = l1.next if l1 else None
-            l2 = l2.next if l2 else None
+        #     pointer = pointer.next
+        #     l1 = l1.next if l1 else None
+        #     l2 = l2.next if l2 else None
             
-        return result.next
+        # return result.next
+
+class Solution(object):
+    def addTwoNumbers(self, nums, target):
+        numToIndex = {}
+        for i in range(len(nums)):
+            if target - nums[i] in numToIndex:
+                return [numToIndex[target - nums[i]], i]
+            numToIndex[nums[i]] = i
+        return []
+solution = Solution()
+print(solution.addTwoNumbers([2,7,11,15], 9))
     
