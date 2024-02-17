@@ -1934,3 +1934,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/furthest-building-you-can-reach/">(318) 1642. Furthest Building You Can Reach</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
+
