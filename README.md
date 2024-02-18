@@ -1976,3 +1976,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/find-the-highest-altitude/">(324) 1732. Find the Highest Altitude</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
