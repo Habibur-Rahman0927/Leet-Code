@@ -1994,3 +1994,9 @@
 <hr>
 </div>
 
+<div>
+<h2><a href="https://leetcode.com/problems/find-the-difference-of-two-arrays/">(327) 2215. Find the Difference of Two Arrays</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
