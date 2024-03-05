@@ -2041,3 +2041,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/">(335) 1750. Minimum Length of String After Deleting Similar Ends</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
