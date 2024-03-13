@@ -2059,3 +2059,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/find-the-pivot-integer/">(338) 2485. Find the Pivot Integer</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
