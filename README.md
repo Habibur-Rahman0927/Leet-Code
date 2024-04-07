@@ -2071,3 +2071,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/valid-parenthesis-string">(340) 678. Valid Parenthesis String</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
