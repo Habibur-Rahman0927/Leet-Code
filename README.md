@@ -2095,3 +2095,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/remove-k-digits/">(344) 402. Remove K Digits</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
