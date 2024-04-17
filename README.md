@@ -2101,3 +2101,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/smallest-string-starting-from-leaf">(345) 988. Smallest String Starting From Leaf</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
