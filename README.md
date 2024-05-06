@@ -2113,3 +2113,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/remove-nodes-from-linked-list/">(347) 2487. Remove Nodes From Linked List</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
