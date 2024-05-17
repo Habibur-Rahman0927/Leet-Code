@@ -2119,3 +2119,9 @@
 <h3>Medium</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/delete-leaves-with-a-given-value/">(348) 1325. Delete Leaves With a Given Value</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
