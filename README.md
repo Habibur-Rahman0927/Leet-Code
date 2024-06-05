@@ -2126,9 +2126,14 @@
 <hr>
 </div>
 
-
 <div>
 <h2><a href="https://leetcode.com/problems/longest-palindrome/">(350) 409. Longest Palindrome</a></h2>
+<h3>Easy</h3>
+<hr>
+</div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/find-common-characters/">(351) 1002. Find Common Characters</a></h2>
 <h3>Easy</h3>
 <hr>
 </div>
