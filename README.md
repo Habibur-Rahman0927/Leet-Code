@@ -2161,3 +2161,9 @@
 <h3>Easy</h3>
 <hr>
 </div>
+
+<div>
+<h2><a href="https://leetcode.com/problems/most-profit-assigning-work/">(356) 826. Most Profit Assigning Work</a></h2>
+<h3>Medium</h3>
+<hr>
+</div>
